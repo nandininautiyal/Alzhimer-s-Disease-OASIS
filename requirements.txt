@@ -1,0 +1,12 @@
+torch>=2.1.0
+torchvision
+torchmetrics>=1.0.0
+nibabel
+scipy
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+#flash-attn>=2.0.0

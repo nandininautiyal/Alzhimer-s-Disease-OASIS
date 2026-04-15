@@ -1,0 +1,17 @@
+# dataset
+oasis_data/
+*.csv
+
+# weights
+*.pth
+weights_finalized/
+
+# plots
+training_plots/
+
+# python
+__pycache__/
+*.pyc
+
+adni_clean/
+adni_processed/
