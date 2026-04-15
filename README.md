@@ -118,15 +118,8 @@ Our model achieves competitive performance while being significantly more effici
 ---
 
 ## 9. Project Structure
-├── models/ # MicroBiFPN architecture
-├── data/ # Dataset loading and augmentation
-├── utils/ # Utility functions
-├── train.py # Training pipeline
-├── config.py # Configurations
-├── generate_csv.py # Dataset preparation
-├── training_plots/ # Output plots
-├── requirements.txt # Dependencies
-└── .gitignore
+<img width="584" height="387" alt="image" src="https://github.com/user-attachments/assets/1180578f-01bf-4240-88fe-3f48bb7c8145" />
+
 
 
 ---
